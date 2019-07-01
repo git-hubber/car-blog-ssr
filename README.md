@@ -7,7 +7,7 @@ This SSR boilerplate is far from finished - and doesn't have file-loader/url-loa
 ## Git clone
 
 ```
-git clone https://github.com/git-hubber/car-blog-cra.git
+git clone https://github.com/git-hubber/car-blog-ssr.git
 ```
 
 ....then in the project directory, you can run:
